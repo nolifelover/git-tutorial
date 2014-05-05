@@ -1,7 +1,7 @@
-Create new git repository
+Create git repository
 ------------------------
 git init
 
-Add file to local repository
+Add untag file to repository
 -------------------------
 git add *file 
