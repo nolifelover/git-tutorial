@@ -1,7 +1,7 @@
-Create new git repository
+Create new git repo
 ------------------------
 git init
 
-Add file to local repository
+Add file to local repo
 -------------------------
 git add *file 
