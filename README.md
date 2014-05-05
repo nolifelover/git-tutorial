@@ -1,3 +1,7 @@
 Create new git repository
 ------------------------
-use command git init
+git init
+
+Add file to local repository
+-------------------------
+git add *file 
